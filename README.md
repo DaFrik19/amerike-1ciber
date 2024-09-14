@@ -5,4 +5,4 @@
 
 [Practica-05](practica-05.md)
 
-Limpiando un poco mi README jajaja
+Veremos como fusionar las cosas regresando de receso
