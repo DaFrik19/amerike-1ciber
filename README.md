@@ -5,4 +5,6 @@
 
 [Practica-05](practica-05.md)
 
+[Practica-06](https://github.com/DaFrik19/prac6)
+
 Veremos como fusionar las cosas regresando de receso
