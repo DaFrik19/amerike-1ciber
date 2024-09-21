@@ -9,5 +9,7 @@
 
 [practica-07](https://github.com/DaFrik19/prac6)
 
+[practica-08](./practica8.md)
+
 
 Veremos como fusionar las cosas regresando de receso
