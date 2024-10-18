@@ -11,5 +11,7 @@
 
 [practica-08](./practica8.md)
 
+[Practica-12](https://dafrik19.github.io/prac12/)
+
 
 Veremos como fusionar las cosas regresando de receso
