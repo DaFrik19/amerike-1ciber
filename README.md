@@ -13,5 +13,6 @@
 
 [Practica-12](https://dafrik19.github.io/prac12/)
 
+[Avance2](./Avance2.md)
 
 Veremos como fusionar las cosas regresando de receso
